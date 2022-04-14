@@ -1,4 +1,4 @@
-# Composite Forming Modelling using Artificial Inteligence
+# Composite Forming Modelling using Artificial Intelligence
 
 @author: Elias Mehssatou; Vrije Universiteit Brussel & Universite Libre de Bruxelles, Belgium
 
