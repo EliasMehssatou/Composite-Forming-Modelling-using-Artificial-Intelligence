@@ -1,6 +1,6 @@
 # Composite Forming Modelling using Artificial Intelligence
 
-@author: Elias Mehssatou; Vrije Universiteit Brussel & Universite Libre de Bruxelles, Belgium
+@author: Elias Mehssatou; Vrije Universiteit Brussel & Université Libre de Bruxelles, Belgium
 
 Master thesis: Composite forming modelling using artificial intelligence
 
