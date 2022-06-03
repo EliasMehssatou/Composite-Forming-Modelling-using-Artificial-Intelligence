@@ -8,7 +8,7 @@
 
 This repository contains all the scripts necessary for the reproductability of the work.
 
-**Abstract **
+**Abstract**
 
 Lightweighting is becoming a critical design strategy in the automotive field to decrease vehicle en-
 ergy consumption. Composite materials such as carbon-fibre reinforced thermoplastics exhibiting
