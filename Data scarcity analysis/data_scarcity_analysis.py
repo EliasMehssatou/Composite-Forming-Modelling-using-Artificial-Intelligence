@@ -18,7 +18,7 @@ y_errormax_label2 = []
 
 for i in range (len(data_split)):
     train_amount = data_split[i]
-    CNN_model = keras.models.load_model("CNN_data_" + str(train_amount))
+    CNN_model = keras.models.load_model("correct_model_tuned_" + str(train_amount))
 
     x_amounts.append(train_amount)
 
