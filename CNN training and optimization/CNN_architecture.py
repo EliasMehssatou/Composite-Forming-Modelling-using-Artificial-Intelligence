@@ -1,4 +1,4 @@
-def create_model_smaller_conv(learning_rate, filter_size, nb_filter):
+def create_cnn(learning_rate, filter_size, nb_filter):
     model = Sequential()
     model.add(Conv2D(nb_filter, (filter_size, filter_size), input_shape=input_shape_input, activation='relu', padding='same'))
     model.add(MaxPooling2D(pool_size=(3, 3)))
